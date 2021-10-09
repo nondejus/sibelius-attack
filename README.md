@@ -1,2 +1,0 @@
-# sibelius-attack
-terrorhouse
